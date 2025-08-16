@@ -1,18 +1,35 @@
-Current Date and Time (UTC - YYYY-MM-DD HH:MM:SS formatted): 2025-08-16 15:23:43
-Current User's Login: kashif2112
-# Hi, I'm Kashif 👋
+# Kashif Yaseen | AI Engineer
 
-I'm an AI Engineer with experience in:
+## About Me
 
-- **Retrieval-Augmented Generation (RAG)**
-- **Intelligent Agents & Deep Agents**
-- **Prompt Engineering**
-- **LLMOps (Large Language Model Operations)**
-- **ReAct (Reasoning and Acting)**
-- **pgvector and vector databases**
+I am a specialized AI Engineer focused on developing and implementing advanced language models and intelligent systems. With extensive experience in modern AI frameworks and cloud technologies, I bring comprehensive solutions to complex AI challenges.
 
-Passionate about building robust, scalable AI systems and exploring the latest in Large Language Models and Agent frameworks.
+### Core Competencies
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/kashif-yaseen-73a733186?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+#### AI/ML Frameworks & Technologies
+- 🔍 **Retrieval-Augmented Generation (RAG)** - Enhancing LLM responses with contextual knowledge
+- 🤖 **Intelligent & Deep Agent Systems** - Designing autonomous AI decision-making frameworks
+- ⚡ **Prompt Engineering** - Optimizing LLM interactions for maximum effectiveness
+- 🛠️ **LLMOps** - Streamlining Large Language Model deployment and operations
+- 🧠 **ReAct Framework** - Implementing reasoning and action patterns in AI systems
+- 🗄️ **Vector Database Engineering** - Expertise in pgvector and semantic search systems
 
-Let's connect and build the future of AI together!
+#### Advanced Framework Experience
+- 🔗 **LangChain** - Building sophisticated AI applications with modular components
+- 📊 **LangGraph** - Developing complex AI workflows and decision trees
+- 📡 **Model Context Protocol** - Implementing standardized context handling in AI systems
+- ⚡ **Lightspeed** - Optimizing high-performance AI model deployments
+- ☁️ **OpenShift** - Orchestrating containerized AI applications at scale
+
+### Technical Expertise
+- **AI Architecture Design**: Developing scalable AI solutions
+- **System Integration**: Seamless integration of AI components
+- **Performance Optimization**: Enhancing model efficiency and response times
+- **Cloud Infrastructure**: Deploying AI systems in production environments
+
+## Let's Connect
+[LinkedIn](https://www.linkedin.com/in/kashif-yaseen-73a733186?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+
+*Driving innovation in AI through cutting-edge technologies and architectural excellence.*
+
+Last Updated: 2025-08-16
